@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Novel_System.iml" filepath="$PROJECT_DIR$/Novel_System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/novel_system_backend/novel_system_backend.iml" filepath="$PROJECT_DIR$/novel_system_backend/novel_system_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/novel_system_frontend.iml" filepath="$PROJECT_DIR$/novel_system_frontend.iml" />
+    </modules>
+  </component>
+</project>
